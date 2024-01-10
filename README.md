@@ -54,7 +54,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abeeha-khalid&&style=flat-square" align="center" />
+  [![](https://visitcount.itsvg.in/api?id=Abeeha-khalid&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>  
   
 
