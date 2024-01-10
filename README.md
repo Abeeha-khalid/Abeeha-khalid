@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Frontend development  
   
 
-- 🌱 I’m currently learning HTML,CSS, J  
+- 🌱 I’m currently learning HTML,CSS, JS  
   
 
 - ❓ Ask me about anything related to Anime and Technologies.  
@@ -26,10 +26,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>  
 
-<div align="center">  
-  
-</div>
-
 </td><td valign="top" width="33%">
 
 
@@ -46,12 +42,6 @@
 
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
 
 <br/>  
 
