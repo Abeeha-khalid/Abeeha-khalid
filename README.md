@@ -41,7 +41,7 @@
 
 <br/>  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abeeha-khalid" alt="GitHub Streak" /></a>
+<a href =""><img src="https://streak-stats.demolab.com?user=Abeeha-khalid" alt="GitHub Streak" /></a>
 <br/> 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abeeha-khalid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -54,7 +54,7 @@
 <br/>  
 
 
-[![](https://visitcount.itsvg.in/api?id=Abeeha-khalid&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abeeha-khalid&icon=0&color=0)]
 <br/>  
 
 
